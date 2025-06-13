@@ -20,7 +20,7 @@ of upstream ReactJS 17.x into Luau.
 Add `studiocomponents` to your `wally.toml`:
 
 ```toml
-studiocomponents = "sircfenner/studiocomponents@1.2.0"
+StudioComponents = "sircfenner/studiocomponents@1.2.0"
 ```
 
 ### NPM & yarn
